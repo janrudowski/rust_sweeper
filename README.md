@@ -25,5 +25,5 @@ Inspiration, code snippets, etc.
 
 ## Screnshots
 
-![screenshot_1](./1.png)
-![screenshot_2](./2.png)
+| ![screenshot_1](./1.png)                | ![screenshot_2](./2.png)                |
+| --------------------------------------- | --------------------------------------- |
