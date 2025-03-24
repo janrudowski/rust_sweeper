@@ -9,9 +9,15 @@ Rustc, Cargo
 ### Installing
 
 ```sh
+7z a -tzip resources.zip resources/*
 cargo build --release
+```
+
+### Running
+```sh
 cd target/release && rust_sweeper
 ```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
